@@ -1,0 +1,2 @@
+import Encription
+Encription.ruhul()
